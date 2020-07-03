@@ -9,8 +9,7 @@
         <li>Vagrant: Gerenciando máquinas virtuais</li>
         <li>Docker: criando containers sem dor de cabeça</li>
         <li>Ansible</li>
-        <li>Integração Contínua: Maturidade e Produtividade no Desenvolvimento de Software sem conflito</li>
-		<li>Kubernetes</li>
+	<li>Kubernetes</li>
     </ul>
 </body>
-</html> 3PAO
+</html> PAO
