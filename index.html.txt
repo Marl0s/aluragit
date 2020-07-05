@@ -9,7 +9,7 @@
         <li>Vagrant: Gerenciando máquinas virtuais</li>
         <li>Docker: criando containers sem dor de cabeça</li>
         <li>Ansible: Nossa Infraestrutura como código</li>
-	<li>Kubernetes</li>
+	<li>Kubernetes: Introdução a orquestração de containers</li>
     </ul>
 </body>
 </html>
